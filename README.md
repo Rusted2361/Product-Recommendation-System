@@ -1,13 +1,9 @@
 # Product-Recommendation-System
-My Graduate Capstone Project - This is a Product Recommendation System for a Local Wholesaler in India, using Python and Machine Learning 
+My Graduate Capstone Project - This is a Product Recommendation System for a Local Wholesaler in Pakistan, using Python and Machine Learning 
 
-Dataset :- About two and half years of data used for this project and is uploaded on GitHub (Sales Transactions-2017.csv, Sales Transactions-2018.csv, Sales Transactions-2019.csv)
+Dataset :- About two and half years of data used for this project and is uploaded on GitHub (Sales Transactions-2019.csv, Sales Transactions-2020.csv, Sales Transactions-2021.csv)
 
 Used Flask web framework in Python to publish the results on a web page
-
-Link to the web application :- https://product-recommendation-system.herokuapp.com/
-
-About the Project :- https://youtu.be/0FCxHEc_e8Q (This video provides an understanding about the company and the project)
 
 
 # Program Files
